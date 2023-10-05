@@ -11,9 +11,7 @@ ViveLaCar Challange
     <li> > php artisan key:generate</li>
     <li> > php artisan serve</li>
     <li>AND YOU ARE READY GO TO LINK:</li>
-    <li> <a href="http://127.0.0.1:8000/index">http://127.0.0.1:8000/index</a>(if you go to index you will see search form with buttons search and from there you can search -- BETTER VERSION)</li>
-    <li>OR</li>
-    <li>http://127.0.0.1:8000/?q='name of the movie' (example. deadwood -- <a href="http://127.0.0.1:8000/?q=deadwood">http://127.0.0.1:8000/?q=deadwood</a>)</li>
+    <li> <a href="http://127.0.0.1:8000/index">http://127.0.0.1:8000/index</a> (if you go to index you will see search form with button search and from there you can search) OR <a href="http://127.0.0.1:8000/?q=deadwood">http://127.0.0.1:8000/?q=deadwood</a> (IF YOU WANT TO CHANGE PARAMETERS IN URL) </li>
     </ul>
     
 <h3>Enjoy!</h3>
